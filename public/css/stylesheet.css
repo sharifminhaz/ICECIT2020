@@ -74,7 +74,7 @@ body{
     padding: 5px;
     width: 210px;
     font-size: small !important;
-    z-index: 2;
+    z-index: 3;
 }
 .contain{
     width: 80rem;
@@ -95,5 +95,5 @@ body{
 .abtr{
     padding-right: 15px !important;
     padding-left: 15px !important;
-    z-index: -3;
+    z-index: -1;
 }
