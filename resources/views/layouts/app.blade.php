@@ -34,15 +34,15 @@
         <div class="sidebar navbar">
             <ul>
                 <li> <a href="/">Home </a></li>
-                <li> <a href="/ICECIT">About </a></li>
-                <li> <a>Committee </a>
+                <li> <a href="/about">About </a></li>
+                <li> <a>Committee <span><i class="fa fa-caret-right"></i></span></a>
                     <ul>
                         <li> <a href="/ICECIT">Organizing </a></li>
                         <li> <a href="/ICECIT">Technical</a></li>
                         <li> <a href="/ICECIT">Int. Advisory </a></li>
                     </ul>
                 </li>
-                <li><a>Author </a>
+                <li><a>Author <span><i class="fa fa-caret-right"></i></span></a>
                     <ul>
                         <li> <a href="/ICECIT">Call For Paper </a></li>
                         <li> <a href="/ICECIT">Important Dates</a></li>

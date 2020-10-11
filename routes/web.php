@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/ICECIT', function () {
     return view('pages');
 });
+Route::get('/about', function () {
+    return view('about');
+});
